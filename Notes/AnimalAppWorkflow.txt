@@ -1,6 +1,4 @@
-Animal App Work Flow 
 
-Certainly. Let's break down your application by components and the workflow:
 
 ### 1. Machine Learning Model (Python):
 
@@ -53,5 +51,3 @@ Certainly. Let's break down your application by components and the workflow:
 - **Updates**: As you improve your model over time, you'd need a strategy to push model updates to your app. Consider a mechanism for checking and downloading model updates.
   
 - **Error Handling**: Ensure smooth user experiences by gracefully handling potential errors, like failed image captures, model loading errors, or incorrect predictions.
-
-This overview provides a broad-stroke view of the development process. Each step has its complexities and intricacies, but laying out the process in this manner can provide clarity and direction for your project.
