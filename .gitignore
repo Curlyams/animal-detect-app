@@ -2,3 +2,5 @@
 anenv/
 data/
 Notes/
+tensorflow_src/
+tensorflow-2.13.0/
